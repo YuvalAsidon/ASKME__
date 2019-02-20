@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ASKME_באר_שבע</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="toDo">What you want to do?</string>
+    <string name="search">Looking for...</string>
+    <string name="searchOption">Search</string>
+    <string name="add">New Question</string>
+    <string name="history">History</string>
+    <string name="exit">Exit</string>
+    <string name="name">name</string>
+    <string name="question">question</string>
+    <string name="add2">add</string>
+    <string name="category">category</string>
+    <string name="area">area</string>
+    <string name="answer">answer</string>
+    <string name="choose">you need to choose an option</string>
+    <string name="Search">Search</string>
+    <string name="Add">Add</string>
+    <string name="History">History</string>
+
+    <string-array name="categories">
+        <item>movie</item>
+        <item>parking</item>
+        <item>restaurants</item>
+        <item>activity</item>
+    </string-array>
+
+</resources>

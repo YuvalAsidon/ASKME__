@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ASKME_באר_שבע</string>
+    <string name="prompt_email">אימייל</string>
+    <string name="prompt_password">סיסמא</string>
+    <string name="action_sign_in">התחבר או להירשם</string>
+    <string name="action_sign_in_short">התחבר</string>
+    <string name="error_invalid_email">האימייל שנתת לא נכון</string>
+    <string name="error_invalid_password">הסיסמא שנתת יותר מידי קצרה</string>
+    <string name="error_incorrect_password">הסיסמא לא נכונה</string>
+    <string name="error_field_required">השורה הזאת היא חובה</string>
+    <string name="permission_rationale">יש צורך בהרשאות אנשי קשר לצורך שליחת דוא\"ל         סיום.</string>
+    <string name="toDo">מה אתה רוצה לעשות?</string>
+    <string name="search">מה אתה מחפש...</string>
+    <string name="searchOption">חיפוש</string>
+    <string name="add">שאלה חדשה</string>
+    <string name="history">היסטורה</string>
+    <string name="exit">יציאה</string>
+    <string name="name">שם</string>
+    <string name="question">שאלה</string>
+    <string name="add2">להוסיף</string>
+    <string name="category">קטגוריה</string>
+    <string name="area">אזור</string>
+    <string name="answer">תשובה</string>
+    <string name="choose">אתה צריך לבחור אופציה</string>
+    <string name="Search">חיפוש</string>
+    <string name="Add">הוספה</string>
+    <string name="History">היסטוריה</string>
+
+    <string-array name="categories">
+        <item>סרטים</item>
+        <item>חניות</item>
+        <item>מסעדות</item>
+        <item>פעילויות</item>
+    </string-array>
+
+</resources>
